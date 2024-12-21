@@ -1,0 +1,9 @@
+<log>
+  <action user="step" time="2024-12-21T12:13:41.055311" command="pwd"/>
+  <action user="step" time="2024-12-21T12:13:47.733805" command="cd Documents"/>
+  <action user="step" time="2024-12-21T12:13:49.341146" command="pwd"/>
+  <action user="step" time="2024-12-21T12:14:01.439134" command="mkdir some_dir"/>
+  <action user="step" time="2024-12-21T12:14:05.461601" command="cd some_dir"/>
+  <action user="step" time="2024-12-21T12:14:07.261956" command="pwd"/>
+  <action user="step" time="2024-12-21T12:14:12.853416" command="exit"/>
+</log>
